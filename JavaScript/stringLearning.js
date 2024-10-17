@@ -35,6 +35,3 @@ alert("Your_DogHumanAge is " + (((prompt("What is your Dog age?"))-2)*4+21));
 
 
 
-
-
-
