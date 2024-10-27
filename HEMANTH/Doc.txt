@@ -1,0 +1,5 @@
+Face-api.js
+package :  npm i face-api.js
+
+install package
+import in the file
